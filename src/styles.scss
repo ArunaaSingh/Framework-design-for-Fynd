@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.container-body {
+    width: 100%;
+    height: 100%;
+   }
+
+table {
+    width: 100%;
+  }
+  
+th.mat-sort-header-sorted {
+    color: black;
+  }
+  
+.full-width {
+    width: 100%;
+}
+
+.bold {
+    font-weight: 600;
+    font-size: 16px;
+}
